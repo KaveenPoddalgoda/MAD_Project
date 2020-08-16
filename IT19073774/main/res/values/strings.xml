@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EcoClan</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="ecoclan">ecoclan</string>
+    <string name="todo">TODO</string>
+    <string name="or">-------------------------------- OR --------------------------------</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="register_heading">Register to EcoClan!</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="city">City</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">Map</string>
+    <string name="title_activity_resource_detail">ResourceDetailActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
+
+
