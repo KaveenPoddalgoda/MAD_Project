@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">EcoClan_Recycler</string>
+    <string name="app">EcoClan</string>
+
+    <string name="ownerInfo">Owner Information :</string>
+    <string name="name">Name : </string>
+    <string name="email">Email Address : </string>
+    <string name="postal">Postal Address : </string>
+    <string name="city">City : </string>
+    <string name="contact">Contact Number : </string>
+    <string name="password">Password : </string>
+
+    <string name="updateInfo">Update Information</string>
+    <string name="deleteAcc">Delete Account</string>
+    <string name="registerComp">Register Company</string>
+    <string name="createAcc">Create an Account</string>
+    <string name="mapAdd">Map Address</string>
+    <string name="send">Send Request</string>
+    <string name="paymentMethod"> Make Payment </string>
+    <string name="records"> Past Records </string>
+    <string name="search"> Search Category </string>
+    <string name="request">Request Materials</string>
+
+    <string name="confirm1">Confirm </string>
+
+    <string name="category">Choose Category : </string>
+    <string name="weight">Weight (in Kg) : </string>
+    <string name="expectDate">Expected Date</string>
+    <string name="expectTime">Expected Time</string>
+
+    <string name="cat1">Iron</string>
+    <string name="cat2">Plastic</string>
+    <string name="cat3">...</string>
+
+    <string name="date">Date </string>
+    <string name="quantity">Quantity</string>
+    <string name="amountT">Rs.</string>
+    <string name="item">Item</string>
+
+    <string name="receive">Received Materials Information</string>
+    <string name="payment"> Total Amount </string>
+    <string name="Amount">Rs. 0.00</string>
+    <string name="total"> Total </string>
+    <string name="amount"> Amount :  </string>
+
+    <string name="dummyText">xxxxxxxxxxx </string>
+    <string name="dummyEmail">xxx@xxx.com  </string>
+    <string name="dummyContact">0123456789  </string>
+    <string name="dummyDate">0/0/0000  </string>
+    <string name="dummyQuantity">0  </string>
+    <string name="dummyAmount">0.00  </string>
+
+    <string name="received"> Received </string>
+    <string name="requested"> Requested </string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="zero">0.00</string>
+
+    <string name="confirm">Confirm Changes</string>
+    <string name="confirmAdd">Confirm Address</string>
+
+    <string name="compName">Company Name</string>
+    <string name="address">Company Address</string>
+    <string name="regNo">Registration Number</string>
+    <string name="title_activity_request_msg">RequestMsg</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_received">Received</string>
+    <string name="title_activity_register_company">RegisterCompany</string>
+    <string name="title_activity_search_records">SearchRecords</string>
+    <string name="title_activity_update_info">UpdateInfo</string>
+
+
+</resources>
+
+
+
+
+
+
+
